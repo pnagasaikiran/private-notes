@@ -378,7 +378,7 @@ GET / + Referer : https://site.com/api/GetUser --> 200
 or
 GET /api/getUser + Referer : https://site.com/api/GetUser --> 200
 ```
-<img src="https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/usage.png" width="600" height="700"/>
+<img src="https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/usage.png" width="500" height="320"/>
 <img src="/assets/img/401-403-bypass1.jpeg?raw=true" width="600" height="700"/>
 <img src="/assets/img/401-403-bypass-payload.jpeg?raw=true" width="600" height="700"/>
 
