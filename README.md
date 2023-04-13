@@ -379,8 +379,8 @@ or
 GET /api/getUser + Referer : https://site.com/api/GetUser --> 200
 ```
 <img src="https://raw.githubusercontent.com/channyein1337/403-bypass/main/image/usage.png" width="500" height="320"/>
-<img src="/assets/img/401-403-bypass1.jpeg?raw=true" width="600" height="700"/>
-<img src="/assets/img/401-403-bypass-payload.jpeg?raw=true" width="600" height="700"/>
+<img src="/img/401-403-bypass1.jpeg?raw=true" width="600" height="700"/>
+<img src="/img/401-403-bypass-payload.jpeg?raw=true" width="600" height="700"/>
 
 ```http
 X-Originating-IP: 127.0.0.1
@@ -418,7 +418,7 @@ X-Forwarded-For: 127.0.0.1 -> 200
 4. Try to figure out how token are generated
 
 
-<img src="/assets/img/password-reset.jpeg?raw=true" width="800" height="600"/>
+<img src="/img/password-reset.jpeg?raw=true" width="800" height="600"/>
 
 
 ### Bypass LFI WAF
